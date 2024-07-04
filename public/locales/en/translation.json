@@ -1,0 +1,625 @@
+{
+    "navbar": {
+        "chats": "Chat",
+        "profile": "Profile",
+        "groups": "Feeds",
+        "contacts": "Contact",
+        "settings": "Settings",
+        "logout": "Log out"
+    },
+    "chats": {
+        "searchPlaceholder": "Search messages or users",
+        "title": "Chats",
+        "recent": "Recent",
+        "search": "Search",
+        "emptyTitle": "Welcome to Lola PC!",
+        "emptyDescription": "Explore the best features to support your work and allow you to chat with your friends and family. All are optimized for your computer!",
+        "no-conversations": "You have no conversations",
+        "no-conversations-description": "Lola only display messages from the first login on this browser",
+        "no-conversations-description-1": "on",
+        "photo": "Photo",
+        "sticker": "Sticker",
+        "more": {
+            "pin": "Pin this conversation",
+            "unpin": "Unpin this conversation",
+            "mark-as-unread": "Mark as unread",
+            "add-to-group": "Add to group",
+            "delete-conversation": "Delete conversation",
+            "report": "Report"
+        }
+    },
+    "chat": {
+        "search": "Search",
+        "archive": "Archive",
+        "muted": "Muted",
+        "delete": "Delete",
+        "video-call": "Start Video Call",
+        "audio-call": "Start Audio Call",
+        "name": "Name",
+        "email": "Email",
+        "time": "Time",
+        "location": "Location",
+        "about": "About",
+        "attached-files": "Attached Files",
+        "members": "Members",
+        "active": "Active",
+        "chat": "Enter Message...",
+        "profile": "View profile",
+        "more": {
+            "copy": "Copy",
+            "save": "Save",
+            "forward": "Forward",
+            "delete": "Delete",
+            "delete-for-me": "Delete for me only",
+            "recall": "Recall",
+            "pin": "Pin message"
+        },
+        "emoji": "Emoji",
+        "attached-file": "Attached File",
+        "images": "Images",
+        "empty-chat-description-1": "Lola can only display messages from the first login on this browser",
+        "empty-chat-description-1-1": "on",
+        "empty-chat-description-2": "Please download Lola PC or use the Lola app on your phone to view the full chat history.",
+        "empty-chat-download": "Download Lola PC",
+        "sending": "Sending",
+        "sent": "Sent",
+        "received": "Received",
+        "limit-files-send": "You should only send up to 50 files/photos each times",
+        "message-recalled": "Message recalled",
+        "recall-notify": "You cannot recall message after 24 hours",
+        "pin-more": {
+            "copy": "Copy",
+            "unpin": "Unpin"
+        },
+        "share": "Share",
+        "micro": "Micro",
+        "add-members": "Add members",
+        "manage-group": "Manage group",
+        "pin-conversation": "Pin",
+        "unpin-conversation": "Unpin",
+        "mute": "Mute",
+        "un-mute": "Unmute",
+        "at": "at",
+        "forward": {
+            "title": "Share",
+            "search": "Search conversation for sharing message",
+            "recent": "Recent",
+            "group": "Group",
+            "cancel": "Cancel",
+            "share": "Share"
+        },
+        "error-send-files": "An error occurred while sending files",
+        "error-send-files-1": "Please try again",
+        "error-policy-files": "do not comply with our policies and therefore will not be sent",
+        "error-policy-message": "The message does not comply with our policies and therefore will not be sent",
+        "error-file-size": "Maximum allowed size for uploaded files is 10MB",
+        "delete-for-me-pending": "Deleting...",
+        "delete-for-me-success": "Deleted successfully",
+        "delete-for-me-error": "Failed to delete",
+        "attached-file-empty": "No Files is shared in this conversation",
+        "you": "You"
+    },
+    "contacts": {
+        "title": "Contacts",
+        "search": "Search users...",
+        "share": "Share",
+        "block": "Block",
+        "remove": "Remove",
+        "add-contact": "Add Contact",
+        "phone": "Phone",
+        "enter-phone": "Enter Phone",
+        "enter-email": "Enter Email",
+        "message": "Invitation Message",
+        "enter-message": "Enter Message",
+        "close": "Close",
+        "invite-contact": "Invite Contact",
+        "phone-empty": "Phone number can not be left blank.",
+        "phone-invalid": "Invalid phone number.",
+        "message-empty": "Message cannot be blank.",
+        "modal": {
+            "close": "Close",
+            "search": "Search",
+            "placeholder": "Search by country name",
+            "recentSearches": "Recent searches",
+            "youMayKnow": "You may know",
+            "fromPhoneNumber": "From phone number",
+            "addFriend": "Add friend",
+            "viewMore": "View more",
+            "profile": "Profile",
+            "chat": "Chat",
+            "personalInformation": "Personal information",
+            "gender": "Gender",
+            "birthday": "Birthday",
+            "mutualGroup": "Mutual group",
+            "shareContact": "Share contact",
+            "blockMessagesAndCalls": "Block messages and calls",
+            "report": "Report",
+            "setAlias": "Set alias",
+            "setAliasTitle": "Choose a memorable name for",
+            "setAliasNotice": "Notice: This alias will only be shown to you.",
+            "confirm": "Confirm",
+            "cancel": "Cancel",
+            "character": "character",
+            "notAllowViewFeed": "Do not allow this user to view my feed",
+            "information": "Profile",
+            "placeholderGreetingMessage": "Enter your greeting message...",
+            "greetingMessage1": "Hi, my name is",
+            "greetingMessage2": "I found you by searching your number. Please accept my request!",
+            "reportDescription": "If you are concerned about this conversation. You can report the conversation after selecting a problem below.",
+            "sensitiveContent": "Sensitive Content",
+            "annoying": "Annoying",
+            "scam": "Scam",
+            "other": "Other",
+            "reportPlaceholder": "Enter report reason",
+            "blockAndDeleteConversations": "Block and delete conversations",
+            "unblock": "Unblock",
+            "unblockTitle": "Unblock to send message and call to this person.",
+            "blockWarning": "Be careful when adding strangers",
+            "zaloName": "Lola name",
+            "phoneNumber": "Email",
+            "joinedZalo": "Joined Lola",
+            "undoRequest": "Undo request",
+            "addFriendSuccess": "Friend request sent",
+            "accept": "Accept"
+        },
+        "friend": "Friend",
+        "group": "Group",
+        "friendRequest": "Add friend invitation",
+        "directory": "Machine contact",
+        "user-may-use": "Contacts who use Lola",
+        "birthday-calender": "Birthday schedule",
+        "follow-friend-birthday": "Follow your friends' birthdays",
+        "create-group": "Create New Group",
+        "group-joined": "Joined Groups",
+        "last-activity": "Recent activity",
+        "friend-request": {
+            "title": "Add friend invitation",
+            "received": "Received",
+            "sent": "Sent",
+            "see-more": "See more",
+            "see-less": "See less",
+            "decline": "Decline",
+            "accept": "Accept",
+            "add-friend": "Add",
+            "recall": "Recall",
+            "manage-title": "Manage friend invitation",
+            "add-by-phone-number": "Allow unknown people to find you by phone number",
+            "allow-stranger": "Allow unknown people to add friend",
+            "allow-stranger-desc": "Allow unknown people to add friend by follow sources",
+            "my-qr": "My QR code",
+            "common-group": "Common group",
+            "suggest": "Suggest \"May be you known\"",
+            "empty-friend-received": "Not received any friend invitation yet",
+            "empty-friend-sent": "Not sent any friend invitation yet"
+        },
+        "phone-book": {
+            "last-update": "Latest update",
+            "search": "Search",
+            "all": "All",
+            "not-friends": "Not friends",
+            "notAllowViewFeed": "Block this person to view my timeline",
+            "greetingMessage1": "Hi, I'm",
+            "greetingMessage2": "I've got your phone number",
+            "recall-loading": "Loading...",
+            "recall-success": "Recall successfully",
+            "recall-error": "Recall error",
+            "accept-loading": "Accepting...",
+            "accept-success": "Accept successfully",
+            "accept-error": "Accept error",
+            "addFriend-loading": "Adding...",
+            "addFriend-success": "Add friend successfully",
+            "addFriend-error": "Add friend error"
+        },
+        "recent-activity": "Recent activity",
+        "group-name": "Group name",
+        "admin-group": "Admin group",
+        "create-group-modal": {
+            "title": "Create group",
+            "cancel": "Cancel",
+            "create-group": "Create group",
+            "enter-group-name": "Enter group name...",
+            "search-placeholder": "Enter name, phone number, or list of phone number here",
+            "recent-chat": "Recent",
+            "selected": "Selected",
+            "update-avatar": "Update avatar",
+            "upload-from-pc": "Upload from PC",
+            "gallery": "Gallery",
+            "update": "Update",
+            "change-avatar": "Update avatar",
+            "delete-avatar": "Remove avatar"
+        },
+        "alert-search": "This email has not been linked to an account does not allow searching."
+    },
+    "profile": {
+        "title": "My Profile",
+        "date-of-birth": "Birthday",
+        "information": "Personal Information",
+        "gender": "Gender",
+        "contact": "Email",
+        "phone": "Phone Number",
+        "note": "Only friends who have saved your number in their phonebook can see this number.",
+        "update": "Update",
+        "male": "Male",
+        "female": "Female",
+        "email": "Email",
+        "updateProfile": "Edit your personal information",
+        "name": "Display name",
+        "cancel": "Cancel",
+        "placeholder": "Enter display name",
+        "updateError": "Update error",
+        "updateSuccess": "Update success",
+        "update-avatar-fail": "Update avatar fail",
+        "error-incorrect-old-password": "Incorrect old password"
+    },
+    "not-found": {
+        "title": "Look like you're lost",
+        "description": "The page you are looking for not available!",
+        "home": "Go to Home",
+        "back": "Back"
+    },
+    "emoji": {
+        "suggested": "Recent",
+        "smileys_people": "People",
+        "animals_nature": "Nature",
+        "food_drink": "Food & Drink",
+        "travel_places": "Travel & places",
+        "activities": "Activity",
+        "objects": "Objects",
+        "symbols": "Symbols",
+        "flags": "Flags"
+    },
+    "sticker": {
+        "search": "Search sticker"
+    },
+    "attachFiles": {
+        "photo": "photo",
+        "file": "file",
+        "and": "and",
+        "selected": "selected",
+        "quickSend": {
+            "title": "Quick send",
+            "description": "Drop Files here to send immediately"
+        },
+        "preview": {
+            "title": "Preview before sending",
+            "description": "Drop Files here to preview before sending"
+        }
+    },
+    "slider": {
+        "1": {
+            "title": "Messages more, work less",
+            "description": "Use Quick Messages to save common messages & respond faster in any conversations."
+        },
+        "2": {
+            "title": "Disappearing messages",
+            "description": "From now messages can auto-disappear after a set time."
+        },
+        "3": {
+            "title": "End-to-end Encryption",
+            "description": "Messages are encrypted during sending and receiving",
+            "buttonTitle": "More"
+        },
+        "4": {
+            "title": "Effective teamwork with Lola Group Call",
+            "description": "Connect and converse with your team anytime, anywhere"
+        },
+        "5": {
+            "title": "Stay connected and work on any device",
+            "description": "With advanced synchronization"
+        },
+        "6": {
+            "title": "Heavy files to send?",
+            "description": "Let Lola PC deal with it!"
+        },
+        "7": {
+            "title": "Chat with your teammates",
+            "description": "Fast and easily with tools optimized for your computer"
+        },
+        "8": {
+            "title": "Enhance productivity up to 40%",
+            "description": "With Lola PC"
+        }
+    },
+    "login": {
+        "with-qr-code": "With QR code",
+        "with-phone-number": "With email",
+        "only-for-logging-into": "Only for logging into",
+        "zalo-on-computer": "Lola on computer",
+        "use-zalo-on-mobile-to-scan": "Use Lola on computer to scan QR",
+        "phone-number": "Email",
+        "password": "Password",
+        "login-with-password": "Login with password",
+        "sign-in-with-mobile": "Sign in with mobile device",
+        "forgot-password": "Forgot password?",
+        "error": "Email or password does not match, please re-enter",
+        "enter-phone-number": "Enter the your email address",
+        "error-forget-password": "Please enter a valid email",
+        "continue": "Continue",
+        "back": "Back",
+        "forget-password-enter-password": "Enter password",
+        "forget-password-reenter-password": "Confirm password",
+        "send-message-to-get-code": "Check email to receive the OTP code.",
+        "enter-activation-code": "Enter OTP code",
+        "description-get-code": "Please text the word \"LOLAPC\" and send to 6020 (VND1000/text) to request verification code (applicable to Viettel, Mobifone, Vinaphone, Vietnamobile, Gmobile)",
+        "confirm": "Confirm",
+        "login-by-mobile-desc": "We will send a request login to Lola app on your device.",
+        "agree": "Agree",
+        "register": "Register"
+    },
+    "register": {
+        "zalo-name": "Lola name",
+        "zalo-name-placeholder": "Contains 2-40 characters",
+        "zalo-name-attention-1": "Naming tips",
+        "zalo-name-attention-2": "Names must not violate",
+        "zalo-name-attention-2-1": "Lola's Naming policy",
+        "zalo-name-attention-3": "Help your friends recognize you by using your real name",
+        "back": "Back",
+        "next": "Next",
+        "phone": "Phone number",
+        "phone-placeholder": "Enter your phone number",
+        "email": "Email",
+        "email-placeholder": "Enter your email",
+        "phone-checkbox-1": "I agree to",
+        "phone-checkbox-1-1": "Lola Term of Service",
+        "phone-checkbox-1-2": "Lola's Social Terms of Service",
+        "password": "Password",
+        "password-placeholder": "Enter your password",
+        "gender": "Gender",
+        "male": "Male",
+        "female": "Female",
+        "birthday": "Birthday",
+        "register": "Register",
+        "sign-in": "Sign in",
+        "error-name": "Lola name must have at least 2-40 characters.",
+        "error-phone": "Invalid phone number",
+        "error-email": "Invalid email. Please double-check and try again.",
+        "email-exist": "This email is already registered!",
+        "error-otp-code": "Invalid OTP code",
+        "error-otp-code1": "OTP code is required",
+        "error-password": "Password must include letters and numbers",
+        "error-datOfBirth": "You must be 14 years old",
+        "zalo-name-validate-min-length": "Name is too short. Valid names must contain 2-40 characters. (1000150)",
+        "zalo-name-validate-max-length": "Name is too long. Valid names must contain 2-40 characters. (1000151)",
+        "zalo-name-validate-special-character": "Name contains words that violate Lola's Naming policy. (1000153)",
+        "zalo-name-validate-number-character": "Name must not contain numbers. (1000155)",
+        "phone-validate": "Invalid phone number",
+        "password-validate-min-length": "Password must contain at least 6 characters",
+        "password-validate-max-length": "Password not exceed 30 characters",
+        "dob-validate": "You must be at least 14 years old to use app",
+        "dob-validate1": "Please enter your date of birth",
+        "error-password-01": "Password does not match new password",
+        "modal-text-1": "You will receive an encrypted OTP from Lola.",
+        "modal-text-2": "Enter activation code",
+        "authentication": "Authentication",
+        "resend": "Resend again",
+        "confirm": "Verification",
+        "confirm-desc": "You will get a OPT via email. Please enter the code below to verify your email",
+        "countdown": "The OTP will be expired in",
+        "second": "seconds",
+        "enter-confirm": "Enter OTP code",
+        "not-receive": "Didn't receive the verification OTP?",
+        "update-password-max-length": "Password not exceed 30 characters."
+    },
+    "forgot-password": {
+        "contact-not-use": "This email address or phone number is not registered."
+    },
+    "chats-search": {
+        "search-recent": "Recent search",
+        "no-recent-search": "No recent searches",
+        "message-filtering": "Message filtering",
+        "mention": "Mention",
+        "emotion": "Emotion",
+        "close": "Close",
+        "all": "All",
+        "contacts": "Contacts",
+        "messages:": "Messages",
+        "files": "Files",
+        "search-empty-title": "No result found",
+        "search-empty-description": "Please try different keywords or use the Lola app on your phone to find messages before ",
+        "search-description": "Use the Lola app on your phone to find messages before "
+    },
+    "settings": {
+        "title": "Settings",
+        "general": "General settings",
+        "privacy_security": "Privacy & security",
+        "sync_messages": "Sync messages",
+        "resource_management": "Resource management",
+        "theme": "Theme",
+        "notification": "Notification",
+        "message": "Message",
+        "call_settings": "Call settings",
+        "utililties": "Utililties",
+        "proxy": "Proxy",
+        "login_password": "Login password",
+        "change_password": "Change password",
+        "zalo_lock": "Lola lock",
+        "lock_screen": "Lock screen with Ctrl + L, when you are not using a computer",
+        "passcode": "Set new Lola passcode",
+        "authentication": "2-Factor Authentication",
+        "text": "once this features is turned on, you will be prompted to either enter an OTP verification code or confirm on mobile after logging in on unrecognized devices",
+        "note": "Password includes letters and numbers, not includes your date of birth, username or Lola name, minumum 6 characters & 32 characters",
+        "current_password": "Current password",
+        "current_password1": "Enter current password",
+        "new_password": "New password",
+        "new_password1": "Enter new password",
+        "confirm_password": "Confirm password",
+        "check_password": "Incorrect password. Please try again."
+    },
+    "location": {
+        "title": "Location",
+        "description": "Send specific location",
+        "send-to": "Send this location to",
+        "cancel": "Cancel",
+        "send": "Send",
+        "error-api": "There were some errors with the Google Maps API, please try again later"
+    },
+    "friend": {
+        "accept-friend": "Friend added successfully",
+        "decline-friend": "Friend request declined",
+        "default-message-friend-request-1": "Hi, I'm",
+        "default-message-friend-request-2": "Let's be friends!",
+        "notification-friend-removed-successfully": "Friend removed successfully",
+        "notification-friend-removed-fail": "Failed to remove friend",
+        "notification-friend-removing": "Removing friend..."
+    },
+    "group": {
+        "user-more": {
+            "add-admin": "Add admin",
+            "remove-admin": "Revoke admin privilege",
+            "change-group-owner": "Change group owner",
+            "remove-user": "Remove from group",
+            "leave": "Leave group",
+            "toggle-role-pending": "Updating role...",
+            "add-role-successfully": "Add role successfully",
+            "remove-role-successfully": "Role revoked successfully",
+            "toggle-role-reject": "This operation cannot be performed",
+            "change-role-successfully": "Change group owner successfully"
+        },
+        "manage": {
+            "title": "Manage group",
+            "delete": "Delete group",
+            "delete-description": "Remove all members and delete the group? This CANNOT be undone.",
+            "no": "No",
+            "warning": "Only Administrators can access these settings"
+        },
+        "add-members": {
+            "title": "Add members",
+            "cancel": "Cancel",
+            "confirm": "Confirm",
+            "error": "Failed to add members"
+        },
+        "remove-member": {
+            "title": "Confirm",
+            "description": "Remove this member from group?",
+            "block-rejoin": "Block this one from rejoining",
+            "close": "Close",
+            "accept": "Accept"
+        },
+        "owner-leave": {
+            "title": "Select a new group owner before leaving",
+            "search-placeholder": "Search",
+            "cancel": "Cancel",
+            "select-and-continue": "Select and continue"
+        },
+        "leave": {
+            "title": "Leave and delete this conversation?",
+            "description": "You won't be able to see messages in this group after leaving.",
+            "leave-in-silence": "Leave group silently",
+            "leave-in-silence-description": "Only group owner/admins will know that you left.",
+            "cancel": "Cancel",
+            "leave": "Leave group",
+            "notification-successfully": "Leave group successfully"
+        },
+        "delete-group": {
+            "title": "Delete group",
+            "description": "Remove all members and delete the group? This CANNOT be undone.",
+            "no": "No",
+            "delete-group": "Delete group"
+        },
+        "invite-to-group": {
+            "title": "Invite to group",
+            "search-placeholder": "Search group by name",
+            "cancel": "Cancel",
+            "invite": "Invite"
+        }
+    },
+    "conversation": {
+        "delete": {
+            "title": "Confirm",
+            "description-1": "Whole conversation history will permanently delete.",
+            "description-2": "Are you sure you want to delete?",
+            "no": "No",
+            "delete": "Delete",
+            "pending": "Deleting...",
+            "success": "Deleted successfully",
+            "error": "Failed to delete"
+        },
+        "pinConversation": {
+            "pending": "Pinning...",
+            "success": "Pinned successfully",
+            "error": "Failed to pin"
+        },
+        "unpinConversation": {
+            "pending": "Unpinning...",
+            "success": "Unpinned successfully",
+            "error": "Failed to unpin"
+        }
+    },
+    "message-notification": {
+        "you": "you",
+        "and": "and",
+        "add-users": {
+            "was": "was",
+            "were": "were",
+            "title": "added to the group by"
+        },
+        "remove-user": {
+            "was": "was",
+            "title": "removed from the group by"
+        },
+        "add-admin": "has become admin of this group",
+        "remove-admin": "is no longer an admin of this group",
+        "change-owner-group-1": "appointed",
+        "change-owner-group-2": "as new group owner",
+        "accept-friend": "are now friends",
+        "invite-to-group": {
+            "invited": "invited",
+            "to-group": "to group",
+            "view-detail": "View detail",
+            "model": {
+                "title": "Invited groups",
+                "invited-success": "Invited groups successfully",
+                "close": "Close"
+            }
+        },
+        "leave-group": "left the group",
+        "pinned-message": "pinned message",
+        "unpinned-message": "unpinned message",
+        "message": {
+            "pin": {
+                "text": "pinned message",
+                "location": "pinned a message",
+                "sticker": "pinned a sticker",
+                "image": "pinned a photo message",
+                "file": "pinned a file message",
+                "text-image": "pinned a photo message"
+            },
+            "unpin": {
+                "sticker": "unpinned a sticker",
+                "image": "unpinned a photo message",
+                "text": "unpinned message",
+                "location": "unpinned a message",
+                "file": "unpinned a file message",
+                "text-image": "unpinned a photo message"
+            },
+            "view": "View"
+        }
+    },
+    "mutual-group": {
+        "title": "Mutual group",
+        "all-group": "All groups",
+        "my-group": "My group",
+        "remove-from-group": "Remove from group",
+        "choose-multi-group": "Choose multi group",
+        "add-to-group": "Add to group"
+    },
+    "calling": {
+        "video": {
+            "group-waiting": "invited you to a group video chat",
+            "individual-waiting": "is calling you"
+        },
+        "audio": {
+            "group-waiting": "invited you to a group call",
+            "individual-waiting": "is calling you"
+        }
+    },
+    "call": {
+        "connecting": "Connecting...",
+        "left": "Left",
+        "rejected": "Rejected",
+        "busy": "Didn't pick up",
+        "missed": "Didn't pick up",
+        "missed-notify": "Got a missed call from"
+    },
+    "request-error": "Some errors occurred, please try again"
+}

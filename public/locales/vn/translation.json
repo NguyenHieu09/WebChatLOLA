@@ -1,0 +1,623 @@
+{
+    "navbar": {
+        "chats": "Tin nhắn",
+        "profile": "Cá nhân",
+        "groups": "Bảng tin",
+        "contacts": "Danh bạ",
+        "settings": "Cài đặt",
+        "logout": "Đăng xuất"
+    },
+    "chats": {
+        "searchPlaceholder": "Tìm kiếm tin nhắn hoặc người dùng",
+        "title": "Trò chuyện",
+        "recent": "Gần đây",
+        "search": "Tìm kiếm tin nhắn",
+        "emptyTitle": "Chào mừng đến với Lola PC!",
+        "emptyDescription": "Khám phá những tiện ích hỗ trợ làm việc và trò chuyện cùng người thân, bạn bè được tối ưu hoá cho máy tính của bạn.",
+        "no-conversations": "Chưa có hội thoại",
+        "no-conversations-description": "Lola chỉ hiển thị tin nhắn từ sau lần đăng nhập đầu tiên trên trình duyệt này",
+        "no-conversations-description-1": "ngày",
+        "photo": "Hình ảnh",
+        "sticker": "Sticker",
+        "more": {
+            "pin": "Ghim hội thoại",
+            "unpin": "Bỏ ghim hội thoại",
+            "mark-as-unread": "Đánh dấu chưa đọc",
+            "add-to-group": "Thêm vào nhóm",
+            "delete-conversation": "Xoá hội thoại",
+            "report": "Báo xấu"
+        }
+    },
+    "chat": {
+        "search": "Tìm tin nhắn",
+        "archive": "Lưu trữ",
+        "muted": "Tắt tiếng",
+        "delete": "Xoá hội thoại",
+        "video-call": "Bắt đầu cuộc gọi",
+        "audio-call": "Bắt đầu cuộc gọi",
+        "name": "Tên",
+        "email": "Email",
+        "time": "Thời gian",
+        "location": "Vị trí",
+        "about": "Thông tin về đoạn chat",
+        "attached-files": "File đính kèm",
+        "members": "Thành viên",
+        "active": "Hoạt động",
+        "chat": "Nhập tin nhắn...",
+        "profile": "Thông tin hội thoại",
+        "more": {
+            "copy": "Sao chép",
+            "save": "Lưu",
+            "forward": "Chuyển tiếp",
+            "delete-for-me": "Xoá chỉ ở phía tôi",
+            "recall": "Thu hồi",
+            "pin": "Ghim tin nhắn"
+        },
+        "emoji": "Biểu cảm",
+        "attached-file": "Đính kèm file",
+        "images": "Gửi hình ảnh",
+        "empty-chat-description-1": "Lola chỉ hiển thị tin nhắn từ sau lần đăng nhập đầu tiên trên trình duyệt này",
+        "empty-chat-description-1-1": "ngày",
+        "empty-chat-description-2": "Vui lòng sử dụng Lola PC hoặc Lola trên điện thoại để xem đầy đủ lịch sử trò chuyện.",
+        "empty-chat-download": "Tải Lola PC",
+        "sending": "Đang gửi",
+        "sent": "Đã gửi",
+        "received": "Đã nhận",
+        "limit-files-send": "Bạn chỉ nên chia sẻ tối đa 50 tập tin/ảnh mỗi lần",
+        "message-recalled": "Tin nhắn đã được thu hồi",
+        "recall-notify": "Bạn chỉ có thể thu hồi tin nhắn trong vòng 24h",
+        "pin-more": {
+            "copy": "Copy",
+            "unpin": "Bỏ ghim"
+        },
+        "share": "Chia sẻ",
+        "micro": "Micro",
+        "add-members": "Thêm thành viên",
+        "manage-group": "Quản lý nhóm",
+        "pin-conversation": "Ghim hội thoại",
+        "unpin-conversation": "Bỏ ghim hội thoại",
+        "mute": "Tắt thông báo",
+        "un-mute": "Bật thông báo",
+        "forward": {
+            "title": "Chia sẻ",
+            "search": "Tìm kiếm hội thoại cần chia sẻ",
+            "recent": "Trò chuyện gần đây",
+            "group": "Nhóm",
+            "cancel": "Huỷ",
+            "share": "Chia sẻ"
+        },
+        "error-send-files": "Có lỗi xảy ra trong quá trình gửi file",
+        "error-send-files-1": "Xin vui lòng thử lại",
+        "error-policy-files": "không tuân thủ chính sách của chúng tôi và do đó sẽ không được gửi",
+        "error-policy-message": "Tin nhắn không tuân thủ chính sách của chúng tôi và do đó sẽ không được gửi",
+        "error-file-size": "Lola hỗ trợ gửi file tối đa 10MB",
+        "delete-for-me-pending": "Đang xoá...",
+        "delete-for-me-success": "Xoá tin nhắn thành công",
+        "delete-for-me-error": "Xoá tin nhắn không thành công",
+        "attached-file-empty": "Chưa có file được chia sẻ trong hội thoại này",
+        "you": "Bạn"
+    },
+    "contacts": {
+        "title": "Danh bạ",
+        "search": "Tìm kiếm liên hệ...",
+        "share": "Chia sẻ",
+        "block": "Chặn",
+        "remove": "Huỷ kết bạn",
+        "add-contact": "Thêm liên hệ",
+        "phone": "Số điện thoại",
+        "enter-phone": "Nhập số điện thoại",
+        "enter-email": "Nhập địa chỉ email",
+        "message": "Lời chào",
+        "enter-message": "Nhập lời chào",
+        "close": "Đóng",
+        "invite-contact": "Kết bạn",
+        "phone-empty": "Số điện thoại không được để trống.",
+        "phone-invalid": "Số điện thoại không hợp lệ.",
+        "message-empty": "Lời chào không được để trống.",
+        "modal": {
+            "close": "Huỷ",
+            "search": "Tìm kiếm",
+            "placeholder": "Nhập tên quốc gia để tìm kiếm",
+            "recentSearches": "Kết quả gần nhất",
+            "youMayKnow": "Có thể bạn biết",
+            "fromPhoneNumber": "Từ số điện thoại",
+            "addFriend": "Kết bạn",
+            "viewMore": "Xem thêm",
+            "profile": "Thông tin tài khoản",
+            "chat": "Nhắn tin",
+            "personalInformation": "Thông tin cá nhân",
+            "gender": "Giới tính",
+            "birthday": "Ngày sinh",
+            "mutualGroup": "Nhóm chung",
+            "shareContact": "Chia sẻ danh thiếp",
+            "blockMessagesAndCalls": "Chặn tin nhắn và cuộc gọi",
+            "report": "Báo xấu",
+            "setAlias": "Đặt tên gợi nhớ",
+            "setAliasTitle": "Hãy đặt một cái tên dễ nhớ cho",
+            "setAliasNotice": "Lưu ý: Tên gợi nhớ sẽ chỉ hiển thị riêng với bạn.",
+            "confirm": "Xác nhận",
+            "cancel": "Huỷ",
+            "character": "ký tự",
+            "notAllowViewFeed": "Chặn người này xem nhật ký của tôi",
+            "information": "Thông tin",
+            "placeholderGreetingMessage": "Nhập lời chào...",
+            "greetingMessage1": "Xin chào, mình là",
+            "greetingMessage2": "Mình tìm thấy bạn bằng số điện thoại. Kết bạn với mình nhé!",
+            "reportDescription": "Bạn lo ngại về hội thoại này, chọn một trong những lý do dưới đây rồi gửi cho chúng tôi.",
+            "sensitiveContent": "Nội dung nhạy cảm",
+            "annoying": "Làm phiền",
+            "scam": "Lừa đảo",
+            "other": "Lý do khác",
+            "reportPlaceholder": "Nhập lý do báo xấu",
+            "blockAndDeleteConversations": "Chặn và xoá tin nhắn người này sau khi báo xấu",
+            "unblock": "Bỏ chặn",
+            "unblockTitle": "Bỏ chặn để gửi tin nhắn và cuộc gọi tới người này.",
+            "blockWarning": "Cẩn trọng khi kết bạn với người lạ",
+            "zaloName": "Tên Lola",
+            "phoneNumber": "Email",
+            "joinedZalo": "Tham gia Lola",
+            "undoRequest": "Huỷ kết bạn",
+            "addFriendSuccess": "Gửi yêu cầu kết bạn thành công",
+            "accept": "Đồng ý",
+            "at": "lúc"
+        },
+        "friend": "Bạn bè",
+        "group": "Nhóm",
+        "friendRequest": "Lời mời kết bạn",
+        "directory": "Danh bạ máy",
+        "user-may-use": "Người dùng có sử dụng ứng dụng",
+        "birthday-calender": "Lịch sinh nhật",
+        "follow-friend-birthday": "Theo dõi sinh nhật của bạn bè",
+        "create-group": "Tạo nhóm mới",
+        "group-joined": "Nhóm đang tham gia",
+        "last-activity": "Hoạt động cuối",
+        "friend-request": {
+            "title": "Lời mời kết bạn",
+            "received": "Đã nhận",
+            "sent": "Đã gửi",
+            "see-more": "Xem thêm",
+            "see-less": "Thu gọn",
+            "decline": "Từ chối",
+            "accept": "Chấp nhận",
+            "add-friend": "Kết bạn",
+            "recall": "Thu hồi",
+            "manage-title": "Quản lý nguồn tìm kiếm và kết bạn",
+            "add-by-phone-number": "Cho phép người khác tìm kiếm và kết bạn qua số điện thoại",
+            "allow-stranger": "Cho phép người lạ kết bạn",
+            "allow-stranger-desc": "Người lạ có thể gửi lời mời kết bạn qua những nguồn này",
+            "my-qr": "Mã QR của tôi",
+            "common-group": "Nhóm chung",
+            "suggest": "Gợi ý \"Có thể bạn quen\"",
+            "empty-friend-received": "Chưa có lời mời kết bạn nào",
+            "empty-friend-sent": "Chưa gửi lời mời kết bạn nào"
+        },
+        "phone-book": {
+            "last-update": "Lần cập nhật danh bạ gần nhất",
+            "search": "Tìm kiếm",
+            "all": "Tất cả",
+            "not-friends": "Chưa là bạn",
+            "notAllowViewFeed": "Chặn xem nhật ký của tôi",
+            "greetingMessage1": "Xin chào, mình là",
+            "greetingMessage2": "Mình có số điện thoại của bạn",
+            "recall-loading": "Đang thu hồi...",
+            "recall-success": "Thu hồi lời mời kết bạn thành công",
+            "recall-error": "Thu hồi lời mời kết bạn không thành công",
+            "accept-loading": "Đang chấp nhận...",
+            "accept-success": "Chấp nhận lời mời kết bạn thành công",
+            "accept-error": "Chấp nhận lời mời kết bạn không thành công",
+            "addFriend-loading": "Đang kết bạn...",
+            "addFriend-success": "Kết bạn thành công",
+            "addFriend-error": "Kết bạn không thành công"
+        },
+        "recent-activity": "Hoạt động cuối",
+        "group-name": "Tên nhóm",
+        "admin-group": "Nhóm quản lý",
+        "create-group-modal": {
+            "title": "Tạo nhóm",
+            "cancel": "Huỷ",
+            "create-group": "Tạo nhóm",
+            "enter-group-name": "Nhập tên nhóm...",
+            "search-placeholder": "Nhập tên, só điện thoại, hoặc danh sách số điện thoại",
+            "recent-chat": "Trò chuyện gần đây",
+            "selected": "Đã chọn",
+            "update-avatar": "Cập nhật ảnh đại diện",
+            "upload-from-pc": "Tải lên từ máy tính",
+            "gallery": "Bộ sưu tập",
+            "update": "Cập nhật",
+            "change-avatar": "Đổi ảnh đại diện",
+            "delete-avatar": "Xoá ảnh đại diện"
+        },
+        "alert-search": "Email chưa đăng ký tài khoản hoặc không cho phép tìm kiếm."
+    },
+    "profile": {
+        "title": "Hồ sơ của tôi",
+        "date-of-birth": "Ngày sinh",
+        "information": "Thông tin cá nhân",
+        "gender": "Giới tính",
+        "email": "Email",
+        "phone": "Số điện thoại",
+        "note": "Chỉ bạn bè có lưu số của bạn trong danh bạ máy xem được số này.",
+        "update": "Cập nhật",
+        "male": "Nam",
+        "female": "Nữ",
+        "updateProfile": "Cập nhật thông tin cá nhân",
+        "name": "Tên hiển thị",
+        "cancel": "Huỷ",
+        "placeholder": "Nhập tên hiển thị",
+        "updateError": "Cập nhật không thành công",
+        "updateSuccess": "Cập nhật thông tin thành công.",
+        "update-avatar-fail": "Cập nhật ảnh đại diện không thành công",
+        "error-incorrect-old-password": "Mật khẩu cũ không chính xác"
+    },
+    "not-found": {
+        "title": "Có vẻ như bạn đang bị lạc",
+        "description": "Trang bạn đan tìm kiếm không có sẵn!",
+        "home": "Trang chủ",
+        "back": "Quay lại"
+    },
+    "emoji": {
+        "suggested": "Gần đây",
+        "smileys_people": "Con người",
+        "animals_nature": "Tự nhiên",
+        "food_drink": "Đồ ăn",
+        "travel_places": "Du lịch",
+        "activities": "Hoạt động",
+        "objects": "Đồ vật",
+        "symbols": "Biểu tượng",
+        "flags": "Quốc gia"
+    },
+    "sticker": {
+        "search": "Tìm kiếm sticker"
+    },
+    "attachFiles": {
+        "photo": "ảnh",
+        "file": "file",
+        "and": "và",
+        "selected": "được chọn",
+        "quickSend": {
+            "title": "Gửi nhanh",
+            "description": "Thả Files vào đây để gửi ngay"
+        },
+        "preview": {
+            "title": "Xem trước khi gửi",
+            "description": "Thả Files vào đây để xem lại trước khi gửi"
+        }
+    },
+    "slider": {
+        "1": {
+            "title": "Nhắn tin nhiều hơn, soạn thảo ít hơn",
+            "description": "Sử dụng Tin Nhắn Nhanh để lưu sẵn các tin nhắn thường dùng và gửi nhanh trong hội thoại bất kỳ."
+        },
+        "2": {
+            "title": "Tin nhắn tự xóa",
+            "description": "Từ giờ tin nhắn đã có thể tự động tự xóa sau khoảng thời gian nhất định."
+        },
+        "3": {
+            "title": "Mã hóa đầu cuối",
+            "description": "Nội dung tin nhắn được mã hóa trong suốt quá trình gửi và nhận",
+            "buttonTitle": "Tìm hiểu thêm"
+        },
+        "4": {
+            "title": "Gọi nhóm và làm việc hiệu quả với Lola Group Call",
+            "description": "Trao đổi công việc mọi lúc mọi nơi"
+        },
+        "5": {
+            "title": "Trải nghiệm xuyên suốt",
+            "description": "Kết nối và giải quyết công việc trên mọi thiết bị với dữ liệu luôn được đồng bộ"
+        },
+        "6": {
+            "title": "Gửi File nặng?",
+            "description": "Đã có Lola PC \"xử\" hết"
+        },
+        "7": {
+            "title": "Chat nhóm với đồng nghiệp",
+            "description": "Tiện lợi hơn, nhờ các công cụ hỗ trợ chat trên máy tính"
+        },
+        "8": {
+            "title": "Giải quyết công việc hiệu quả hơn, lên đến 40%",
+            "description": "Với Lola PC"
+        }
+    },
+    "login": {
+        "with-qr-code": "Với mã QR",
+        "with-phone-number": "Với email",
+        "only-for-logging-into": "Chỉ dùng để đăng nhập",
+        "zalo-on-computer": "Lola trên máy tính",
+        "use-zalo-on-mobile-to-scan": "Sử dụng ứng dụng Lola để quét QR",
+        "phone-number": "Email",
+        "password": "Mật khẩu",
+        "login-with-password": "Đăng nhập với mật khẩu",
+        "sign-in-with-mobile": "Đăng nhập bằng thiết bị di động",
+        "forgot-password": "Quên mật khẩu?",
+        "error": "Địa chỉ email hoặc mật khẩu không khớp, vui lòng nhập lại",
+        "enter-phone-number": "Nhập địa chỉ email của bạn",
+        "error-forget-password": "Vui lòng nhập email hợp lệ",
+        "continue": "Tiếp tục",
+        "back": "Quay lại",
+        "forget-password-enter-password": "Nhập mật khẩu",
+        "forget-password-reenter-password": "Nhập lại mật khẩu",
+        "send-message-to-get-code": "Kiểm tra email để nhận mã xác thực",
+        "enter-activation-code": "Nhập mã kích hoạt",
+        "description-get-code": "Soạn tin nhắn với cú pháp \"LOLAPC\" gửi đến 6020 (1000đ/tin) để nhận mã xác thực (Chỉ áp dụng cho mạng Viettel, Mobifone, Vinaphone, Vietnamobile, Gmobile)",
+        "confirm": "Xác nhận",
+        "login-by-mobile-desc": "Chúng tôi sẽ gửi một yêu cầu đăng nhập đến ứng dụng Lola trên thiết bị của bạn.",
+        "agree": "Đồng ý",
+        "register": "Đăng ký tài khoản"
+    },
+    "register": {
+        "zalo-name": "Tên Lola",
+        "zalo-name-placeholder": "Gồm 2-40 ký tự",
+        "zalo-name-attention-1": "Lưu ý khi đặt tên",
+        "zalo-name-attention-2": "Không quy phạm",
+        "zalo-name-attention-2-1": "Quy định đặt tên của Lola",
+        "zalo-name-attention-3": "Nên sử dụng tên thật để giúp bạn bè nhận ra bạn",
+        "back": "Quay lại",
+        "next": "Kế tiếp",
+        "phone": "Số điện thoại",
+        "phone-placeholder": "Nhập số điện thoại",
+        "email": "Email",
+        "email-placeholder": "Nhập email của bạn",
+        "error-email": "Email không hợp lệ. Vui lòng kiểm tra và thử lại.",
+        "email-exist": "Địa chỉ Email này đã tồn tại!",
+        "error-otp-code": "Mã OTP không hợp lệ",
+        "error-otp-code1": "Mã OTP không được để trống",
+        "phone-checkbox-1": "Tôi đồng ý với các",
+        "phone-checkbox-1-1": "điều khoản sử dụng Lola",
+        "phone-checkbox-1-2": "điều khoản Mạng xã hội của Lola",
+        "password": "Mật khẩu",
+        "password-placeholder": "Nhập mật khẩu",
+        "gender": "Giới tính",
+        "male": "Nam",
+        "female": "Nữ",
+        "birthday": "Ngày sinh",
+        "register": "Đăng ký",
+        "sign-in": "Đăng nhập",
+        "error-name": "Tên Lola phải có ít nhất 2-40 ký tự..",
+        "error-phone": "Số điện thoại không hợp lệ",
+        "error-password": "Mật khẩu phải gồm chữ và số",
+        "error-datOfBirth": "Bạn phải đủ 14 tuổi",
+        "zalo-name-validate-min-length": "Tên quá ngắn. Tên hợp lệ phải gồm 2-40 ký tự. (1000150)",
+        "zalo-name-validate-max-length": "Tên quá dài. Tên hợp lệ phải gồm 2-40 ký tự. (1000151)",
+        "zalo-name-validate-special-character": "Tên chứa từ ngữ vi phạm Quy định đặt tên trên Lola. (1000153)",
+        "zalo-name-validate-number-character": "Tên không được chứa chữ số. (1000155)",
+        "phone-validate": "Số điện thoại không hợp lệ",
+        "password-validate-min-length": "Mật khẩu phải chứa ít nhất 6 ký tự",
+        "password-validate-max-length": "Mật khẩu không được quá 30 ký tự",
+        "dob-validate": "Bạn phải ít nhất 14 tuổi để sử dụng ứng dụng",
+        "dob-validate1": "Vui lòng nhập ngày sinh của bạn",
+        "error-password-01": "Mật khẩu không khớp với mật khẩu mới",
+        "modal-text-1": "Bạn sẽ nhận được một mã OTP từ Lola.",
+        "modal-text-2": "Nhập mã kích hoạt",
+        "authentication": "Xác nhận",
+        "resend": "Gửi lại mã",
+        "confirm": "Xác thực",
+        "confirm-desc": "Bạn sẽ nhận được một mã xác thực qua email của bạn. Vui lòng nhập mã xác thực vào dưới để xác thực email của bạn",
+        "countdown": "Mã xác thực sẽ hêt hạn trong",
+        "second": "giây",
+        "enter-confirm": "Nhập mã xác thực",
+        "not-receive": "Không nhận được OTP xác minh?",
+        "update-password-max-length": "Mật khẩu không được quá 30 ký tự."
+    },
+    "forgot-password": {
+        "contact-not-use": "Địa chỉ email hoặc sô điện thoại này chưa được đăng ký."
+    },
+    "chats-search": {
+        "search-recent": "Tìm gần đây",
+        "no-recent-search": "Không có tìm kiếm nào gần đây",
+        "message-filtering": "Lọc tin nhắn",
+        "mention": "Nhắc bạn",
+        "emotion": "Biểu cảm",
+        "close": "Đóng",
+        "all": "Tất cả",
+        "contacts": "Liên hệ",
+        "messages:": "Tin nhắn",
+        "files": "File",
+        "search-empty-title": "Không tìm thấy kết quả",
+        "search-empty-description": "Vui lòng thử lại từ khoá khác hoặc sử dụng ứng dụng Lola trên điện thoại để tìm tin nhắn trước ngày ",
+        "search-description": "Sử dụng ứng dụng Lola trên điện thoại để tìm tin nhắn trước ngày "
+    },
+    "settings": {
+        "title": "Cài đặt",
+        "general": "Cài đặt chung",
+        "privacy_security": "Riêng tư và bảo mật",
+        "sync_messages": "Đồng bộ tin nhắn",
+        "resource_management": "Quản lý dữ liệu",
+        "theme": "Giao diện",
+        "notification": "Thông báo",
+        "message": "Tin nhắn",
+        "call_settings": "Cài đặt cuộc gọi",
+        "utililties": "Tiện ích",
+        "proxy": "Cấu hình proxy",
+        "login_password": "Mật khẩu đăng nhập",
+        "change_password": "Đổi mật khẩu",
+        "zalo_lock": "Khóa màn hình Lola",
+        "lock_screen": "Khóa màn hình Lola của bạn bằng Ctrl + L, khi bạn không sử dụng máy tính",
+        "passcode": "Tạo mã khóa màn hình",
+        "authentication": "Bảo mật 2 lớp",
+        "text": "Sau khi bật, bạn sẽ được yêu cầu nhập mã OTP hoặc xác thực từ thiết bị di động sau khi đăng nhập trên thiết bị lạ",
+        "note": "Mật khẩu bao gồm chữ kèm theo số hoặc kí tự đặc biệt, tối thiểu 6 ký tự trở lên và tối đa 32 ký tự",
+        "current_password": "Mật khẩu hiện tại",
+        "current_password1": "Nhập mật khẩu hiện tại",
+        "new_password": "Mật khẩu mới",
+        "new_password1": "Nhập mật khẩu mới",
+        "confirm_password": "Nhập lại mật khẩu mới",
+        "check_password": "Mật khẩu không đúng. Vui lòng nhập lại."
+    },
+    "location": {
+        "title": "Vị trí",
+        "description": "Gửi địa điểm cụ thể",
+        "send-to": "Gửi vị trí này cho",
+        "cancel": "Huỷ",
+        "send": "Gửi",
+        "error-api": "Có một vài lỗi đối với Google Maps API, vui lòng thử lại sau"
+    },
+    "friend": {
+        "accept-friend": "Đồng ý kết bạn thành công",
+        "decline-friend": "Từ chối kết bạn thành công",
+        "default-message-friend-request-1": "Xin chào, mình là",
+        "default-message-friend-request-2": "Kết bạn với mình nhé!",
+        "notification-friend-removed-successfully": "Xoá bạn thành công",
+        "notification-friend-removed-fail": "Xoá bạn không thành công",
+        "notification-friend-removing": "Đang huỷ kết bạn..."
+    },
+    "group": {
+        "user-more": {
+            "add-admin": "Thêm phó nhóm",
+            "remove-admin": "Gỡ quyền phó nhóm",
+            "change-group-owner": "Chuyển quyền trưởng nhóm",
+            "remove-user": "Xoá khỏi nhóm",
+            "leave": "Rời nhóm",
+            "toggle-role-pending": "Đang cập nhật quyền...",
+            "add-role-successfully": "Thêm quyền thành công",
+            "remove-role-successfully": "Gỡ quyền thành công",
+            "toggle-role-reject": "Không thể thực hiện thao tác này",
+            "change-role-successfully": "Chuyển quyền trưởng nhóm thành công"
+        },
+        "manage": {
+            "title": "Quản lý nhóm",
+            "delete": "Giải tán nhóm",
+            "delete-description": "Mời tất cả mọi người rời nhóm và xóa tin nhắn? Nhóm đã giải tán sẽ KHÔNG THỂ khôi phục.",
+            "no": "Không",
+            "warning": "Tính năng chỉ dành cho quản trị viên"
+        },
+        "add-members": {
+            "title": "Thêm thành viên",
+            "cancel": "Huỷ",
+            "confirm": "Xác nhận",
+            "error": "Có lỗi xảy ra trong quá trình thêm thành viên"
+        },
+        "remove-member": {
+            "title": "Xác nhận",
+            "description": "Xoá thành viên này khỏi nhóm?",
+            "block-rejoin": "Chặn người này tham gia lại",
+            "close": "Đóng",
+            "accept": "Đồng ý"
+        },
+        "owner-leave": {
+            "title": "Chọn trưởng nhóm mới trước khi rời",
+            "search-placeholder": "Tìm kiếm",
+            "cancel": "Huỷ",
+            "select-and-continue": "Chọn và tiếp tục"
+        },
+        "leave": {
+            "title": "Rời nhóm và xóa trò chuyện",
+            "description": "Bạn sẽ không thể xem lại tin nhắn trong nhóm này sau khi rời nhóm. ",
+            "leave-in-silence": "Rời nhóm trong im lặng",
+            "leave-in-silence-description": "Chỉ trưởng/phó nhóm biết bạn rời nhóm. ",
+            "cancel": "Huỷ",
+            "leave": "Rời nhóm",
+            "notification-successfully": "Rời nhóm thành công"
+        },
+        "delete-group": {
+            "title": "Giải tán nhóm",
+            "description": "Mời tất cả mọi người rời nhóm và xóa tin nhắn? Nhóm đã giải tán sẽ KHÔNG THỂ khôi phục.",
+            "no": "Không",
+            "delete-group": "Giải tán nhóm"
+        },
+        "invite-to-group": {
+            "title": "Mời tham gia nhóm",
+            "search-placeholder": "Tìm nhóm theo tên",
+            "cancel": "Huỷ",
+            "invite": "Mời"
+        }
+    },
+    "conversation": {
+        "delete": {
+            "title": "Xác nhận",
+            "description-1": "Toàn bộ nội dung trò chuyện sẽ bị xóa vĩnh viễn.",
+            "description-2": "Bạn có chắc chắn muốn xóa?",
+            "no": "Không",
+            "delete": "Xoá",
+            "pending": "Đang xoá...",
+            "success": "Xoá hội thoại thành công",
+            "error": "Xoá hội thoại không thành công"
+        },
+        "pinConversation": {
+            "pending": "Đang ghim...",
+            "success": "Ghim thành công",
+            "error": "Ghim không thành công"
+        },
+        "unpinConversation": {
+            "pending": "Đang bỏ ghim...",
+            "success": "Bỏ ghim thành công",
+            "error": "Bỏ ghim không thành công"
+        }
+    },
+    "message-notification": {
+        "you": "bạn",
+        "and": "và",
+        "add-users": {
+            "was": "được",
+            "were": "được",
+            "title": "thêm vào nhóm"
+        },
+        "remove-user": {
+            "was": "được",
+            "title": "xoá khỏi nhóm"
+        },
+        "add-admin": "đã được bổ nhiệm thành phó nhóm",
+        "remove-admin": "không còn là phó nhóm",
+        "change-owner-group-1": "đã bổ nhiệm",
+        "change-owner-group-2": "làm trưởng nhóm mới",
+        "accept-friend": "đã trở thành bạn",
+        "invite-to-group": {
+            "invited": "đã thêm thành công",
+            "to-group": "vào nhóm",
+            "view-detail": "Xem chi tiết",
+            "model": {
+                "title": "Danh sách nhóm đã mời",
+                "invited-success": "Mời vào nhóm thành cồng",
+                "close": "Đóng"
+            }
+        },
+        "leave-group": "đã rời khỏi nhóm",
+        "pinned-message": "đã ghim tin nhắn",
+        "unpinned-message": "đã bỏ ghim tin nhắn",
+        "message": {
+            "pin": {
+                "text": "đã ghim tin nhắn",
+                "location": "đã ghim 1 tin nhắn",
+                "sticker": "đã ghim 1 sticker",
+                "image": "đã ghim 1 tin nhắn hình ảnh",
+                "file": "đã ghim 1 tin nhắn file",
+                "text-image": "đã ghim 1 tin nhắn hình ảnh"
+            },
+            "unpin": {
+                "text": "đã bỏ ghim tin nhắn",
+                "location": "đã bỏ ghim 1 tin nhắn",
+                "sticker": "đã bỏ ghim 1 sticker",
+                "image": "đã bỏ ghim 1 tin nhắn hình ảnh",
+                "file": "đã bỏ ghim 1 tin nhắn file",
+                "text-image": "đã bỏ ghim 1 tin nhắn hình ảnh"
+            },
+            "view": "Xem"
+        }
+    },
+    "mutual-group": {
+        "title": "Nhóm chung",
+        "all-group": "Tất cả",
+        "my-group": "Nhóm của tôi",
+        "remove-from-group": "Xoá khỏi nhóm",
+        "choose-multi-group": "Chọn nhiều nhóm",
+        "add-to-group": "Thêm vào nhóm"
+    },
+    "calling": {
+        "video": {
+            "group-waiting": "đã mời bạn tham gia nhóm chat video",
+            "individual-waiting": "đang gọi cho bạn"
+        },
+        "audio": {
+            "group-waiting": "đã mời bạn tham gia cuộc gọi nhóm",
+            "individual-waiting": "đang gọi cho bạn"
+        }
+    },
+    "call": {
+        "connecting": "Đang kết nối...",
+        "left": "Rời cuộc gọi",
+        "rejected": "Đã từ chối",
+        "busy": "Máy bận",
+        "missed": "Không bắt máy",
+        "missed-notify": "Có cuộc gọi nhỡ từ"
+    },
+    "request-error": "Có vài lỗi xảy ra, xin vui lòng thử lại"
+}
