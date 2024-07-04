@@ -44,7 +44,7 @@ This section list major frameworks/libraries used to bootstrap my project.
     ```sh
     npm start
     ```
-4. Account
+4. Account test
     ```sh
     Email: hieu92145@gmail.com
     Password: hieu123
