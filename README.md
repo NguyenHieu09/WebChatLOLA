@@ -44,7 +44,11 @@ This section list major frameworks/libraries used to bootstrap my project.
     ```sh
     npm start
     ```
-
+4. Account
+    ```sh
+    Email: hieu92145@gmail.com
+    Password: hieu123
+    ```
 ### Features
 
 -   Multi-language
