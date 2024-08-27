@@ -34,7 +34,7 @@ This section list major frameworks/libraries used to bootstrap my project.
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/thaoanhhaa1/ChatApp-CNM-web.git
+    git clone https://github.com/NguyenHieu09/WebChatLOLA.git
     ```
 2. Install NPM packages
     ```sh
